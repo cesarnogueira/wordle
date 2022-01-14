@@ -3,7 +3,7 @@ A simple [Wordle](https://www.powerlanguage.co.uk/wordle/) clone that removes th
 
 ## Possible future improvements
  - Allow choosing which puzzle to play by number
- - Allow playing today's puzzle (w/o having to know the number)
+ - Remove help modal when selecting new puzzle
  - Unminify code
  - Add other languages
 
